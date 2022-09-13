@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @webbierahul
-- 👀 I’m interested in building applications using Reactjs, GraphQL, Node.js and other frameworks using JavaScript
+- 👀 I’m interested in JavaScript based test automation frameworks like WebDriverIO, Cypress, Puppeteer etc.,
+- Currently exploring Lighthouse, Visual testing
 - 🌱 I’m currently learning Test Architechture Design and Strategies 
 
 <!---
